@@ -1,6 +1,4 @@
 #include <bits/stdc++.h>
-#include <string.h>
-#include <strings.h>
 using namespace std;
 
 typedef  long long lli;
