@@ -75,3 +75,49 @@ ostream &operator << ( ostream & os, const map< F, S > &v ) {
 }
 
 #define deb(x) cerr << #x << " = " << x << endl;
+
+
+
+
+
+
+
+
+int main(){
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	cout.precision(10);
+	cout << fixed;
+	#ifdef LOCAL_DEFINE
+	freopen("input.txt", "rt", stdin);
+	#endif
+	
+	
+	
+	
+	
+	
+	
+	
+	#ifdef LOCAL_DEFINE
+    	cerr << "Time elapsed: " << 1.0 * clock() / CLOCKS_PER_SEC << " s.\n";
+	#endif
+    	return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
