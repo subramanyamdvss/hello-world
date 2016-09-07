@@ -91,7 +91,7 @@ void countingsort(lli a[],lli c[],lli n,lli mi,lli  ma){
     }
     Rof(i,n-1,0){
         if(b[a[i]]>0)
-            c[b[a[i]]]=a[i];
+            c[b[a[i]]-1]=a[i];
         b[a[i]]--;
     }
     return;
